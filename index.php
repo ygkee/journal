@@ -17,4 +17,3 @@
     urlencode();
     is_file();
 
-    curl_init();
