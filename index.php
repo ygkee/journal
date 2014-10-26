@@ -14,4 +14,6 @@
 
     json_encode();
     urlencode();
+    is_file();
 
+    curl_init();
