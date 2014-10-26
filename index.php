@@ -16,3 +16,4 @@
     urlencode();
     is_file();
 
+    function_exists();
