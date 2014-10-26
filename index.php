@@ -17,3 +17,7 @@
     is_file();
 
     function_exists();
+    class_exists();
+
+    extract();
+    compact();
