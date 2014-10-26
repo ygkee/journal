@@ -21,3 +21,5 @@
 
     extract();
     compact();
+
+    fsockopen();
