@@ -1,5 +1,4 @@
 <?php
-    fwrite($f, "\n");
     fclose($f);
 
     ob_flush();
