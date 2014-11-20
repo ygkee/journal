@@ -7,6 +7,8 @@
 
     fclose($f);
 
+    ob_flush();
+    ob_get_contents();
     implode();
     explode();
 
