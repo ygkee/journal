@@ -3,7 +3,6 @@
 
     ob_flush();
     ob_get_contents();
-    substr();
     implode();
     explode();
 
