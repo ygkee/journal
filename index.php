@@ -19,4 +19,3 @@
     compact();
 
     fsockopen();
-    foreach($a as $k=>$v){}
