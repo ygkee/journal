@@ -1,8 +1,23 @@
 <?php
     phpinfo();
     $f = fopen();
-    fwrite($f, "\n");
     fclose($f);
     array_slice();
     array_splice();
 
+    fclose($f);
+
+    implode();
+    explode();
+
+    json_encode();
+    urlencode();
+    is_file();
+
+    function_exists();
+    class_exists();
+
+    extract();
+    compact();
+
+    fsockopen();
