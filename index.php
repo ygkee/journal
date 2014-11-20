@@ -2,7 +2,6 @@
     fwrite($f, "\n");
     fclose($f);
 
-    ob_start();
     ob_flush();
     ob_get_contents();
     substr();
